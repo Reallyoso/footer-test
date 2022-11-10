@@ -6,23 +6,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
 </head>
-<body>
-  <div class="container" style="display: flex; flex-direction: column; max-width: 40vw; font-family: Verdana, Geneva, Tahoma, sans-serif;">
+<body class="container" 
+style="display: flex; justify-content: center;"
+>
+  <div class="container" style="display: flex; flex-direction: column; max-width: 800px; font-family: Verdana, Geneva, Tahoma, sans-serif;">
 
-    <img src="assets\eab289e3-95e0-443c-b2ba-1302b445984a.jfif" alt="company-logo">
+    <img src="assets\eab289e3-95e0-443c-b2ba-1302b445984a.jfif" alt="company-logo"
+    style="width:auto; height: auto; max-width: 100%; max-height: 100%;"
+    >
 
-    <div class="information" style="display: flex; flex-direction: row; margin-top: 0.8em; gap: 1em;">
-      <img src="assets\400_0001.webp" alt="brochure-image" style="display: block; max-width: 33%;">
-      <div class="text-information-container" style="display: flex; flex-direction: column; gap: 1em;">
+    <div class="information" style="display: flex; flex-direction: row; margin-top: 0.8em; gap: 1em; flex-wrap: wrap;">
+      <div style="flex-basis: 33%; flex-grow: 1;">
+        <img src="assets\400_0001.webp" alt="brochure-image" style="width:auto; height: auto; max-width: 100%; max-height: 100%;">
+      </div>
+      <div class="text-information-container" style="display: flex; flex-direction: column; flex-basis: 64%; flex-grow: 1; justify-content: space-between; gap: 2em;">
         <div class="company-description" style="">
           2021 feiern wir 50-Jahre Bauunternehmung Haass.
           Werfen Sie einen Blick in unsere aktuelle Broschüre.
           Qualität, Tradition und Zukunft
         </div>
-        <div class="spacer" style="flex-grow: 1;">
+        <!-- <div class="spacer" style="flex-grow: 1;">
 
-        </div>
-        <div class="company-contacts" style="display: flex; flex-direction: column; gap:0.3em">
+        </div> -->
+        <div class="company-contacts" style="display: flex; flex-direction: column; gap:0.3em; margin-bottom: 1em;">
           <div class="contact-name">Bauunternehmung Haass GmbH & Co. KG</div>
           <div class="contact-address">Burgweg 8 | D-74363 Güglingen</div>
           <div>
