@@ -1,0 +1,47 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section padding-bottom="0px">
+      <mj-column>
+        <mj-image src="https://github.com/Reallyoso/footer-test/raw/main/assets/eab289e3-95e0-443c-b2ba-1302b445984a.jfif"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px">
+      <mj-column>
+        <mj-image href="https://www.unserebroschuere.de/Haass/MailView/" src="https://github.com/Reallyoso/footer-test/raw/main/assets/image001.jpg"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          2021 feiern wir 50-Jahre Bauunternehmung Haass. Werfen Sie einen Blick in unsere aktuelle Broschüre. Qualität, Tradition und Zukunft
+        </mj-text>
+        <mj-spacer></mj-spacer>
+        <mj-text>
+          <div style="margin-bottom: 5px">
+            Bauunternehmung Haass GmbH & Co. KG
+          </div>
+          <div style="margin-bottom: 5px">
+            Burgweg 8 | D-74363 Güglingen
+          </div>
+          <div style="margin-bottom: 5px">
+            Tel.: <a href="tel:+4971359535DURCHWAHL">07135/9535-18</a>
+          </div>
+          <div style="margin-bottom: 5px">
+            Fax.: <a href="+4971359535DURCHWAHL">07135/9535-25</a>
+          </div>
+          <div style="margin-bottom: 5px">
+            <a href="mailto:werkstatt@haass-bau.de">
+              werkstatt@haass-bau.de</a>
+          </div>
+          <div style="margin-bottom: 5px">
+            <a href="https://www.haass-bau.de/">www.haass-bau.de</a>
+          </div>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
