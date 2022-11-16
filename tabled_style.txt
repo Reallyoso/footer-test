@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+  <table>
+    <tr>
+  		<img style="width: 600px;" src="https://github.com/Reallyoso/footer-test/raw/main/assets/eab289e3-95e0-443c-b2ba-1302b445984a.jfif">
+    </tr> 
+    <tr>
+      <td>
+        <img href="#" style="width: 300px" src="https://github.com/Reallyoso/footer-test/raw/main/assets/image001.jpg">
+      </td>
+      <td style="vertical-align: top;">
+        <p>FLAVOUR TEXT HERE</p>
+        
+        <p>
+        	<div>CONTACT TEXT HERE</div>
+        </p>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
