@@ -1,0 +1,50 @@
+<mjml>
+    <mj-body width="800px">
+      <mj-section>
+        <mj-column>
+         <mj-image width="380px" src="https://github.com/Reallyoso/footer-test/raw/main/71501F_assets_png/Aufkleber_175x100mm_HAASS__112021_weisserHintergrund_hex71501F.png"></mj-image>
+        </mj-column>
+        <mj-group>
+          <mj-column width="auto">
+            <mj-image align="left" width="25px" alt="Adresse:" src="https://raw.githubusercontent.com/Reallyoso/footer-test/main/71501F_assets_png/haass_e-mail-1.png" />
+            <mj-image align="left" width="25px" alt="Tel:" src="https://raw.githubusercontent.com/Reallyoso/footer-test/main/71501F_assets_png/haass_telefon-1.png" />
+                            <mj-image align="left" width="25px" alt="Adresse:" src="https://raw.githubusercontent.com/Reallyoso/footer-test/main/71501F_assets_png/fax-solid.png" />
+                                      <mj-image align="left" width="25px" alt="Adresse:" src="https://raw.githubusercontent.com/Reallyoso/footer-test/main/71501F_assets_png/at-solid.png" />
+                                      <mj-image align="left" width="25px" alt="Adresse:" src="https://raw.githubusercontent.com/Reallyoso/footer-test/main/71501F_assets_png/globe-solid.png" />
+            </mj-column>
+          <mj-column width="67%">
+              <mj-text font-family="'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif" height="25px"><a href="https://goo.gl/maps/A2jRmTNKqQsU5ar46">
+              Burgweg 8 | D-74363 Güglingen
+              </a></mj-text>
+              <mj-text font-family="'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif" height="25px"><a href="tel:+497135953518">07135/9535-18</a></mj-text>
+            <mj-text height="25px"> <a href="fax:+497135953525">07135/9535-25</a></mj-text>
+              <mj-text font-family="'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif" height="25px"><a href="mailto:werkstatt@haass-bau.de">werkstatt@haass-bau.de</a></mj-text>
+              <mj-text font-family="'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif" height="25px"><a href="https://www.haass-bau.de">www.haass-bau.de</a></mj-text>
+            
+            
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section>
+				<mj-column>
+            <mj-text font-family="'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif" font-weight="100" font-size="10px" align="justify">
+            <div>Geschäftsführer: Matthias Gebert, Ferdinand Koch</div>    
+            <div>Umsatzsteuer Ident Nr.: DE 256633592</div>  
+            <div>Handelsregister Stuttgart HRA 721893</div> 
+            <br />
+            <div>
+                       Der Inhalt dieser E-Mail ist vertraulich. Falls Sie nicht der angegebene Empfänger sind oder falls diese
+                       E-Mail irrtümlich an Sie adressiert wurde, verständigen Sie bitte den Absender sofort und löschen Sie die
+                       E-Mail. Das unerlaubte Kopieren sowie die unbefugte Übermittlung sind nicht gestattet.
+                       Bitte senden Sie eine irrtümlich zugestellte Mail an: <a href="mailto:info@haass-bau.de">info@haass-bau.de</a>
+                       The contents of this e-mail are confidential. If you are not the named addressee or if this transmission has
+                       been addressed to you in error, please notify the sender immediately and delete this e-mail. Any
+                       unauthorized copying and transmission is forbidden.
+             </div>
+                  </mj-text>
+
+        </mj-column>
+
+      </mj-section>
+    </mj-body>
+  </mjml>
